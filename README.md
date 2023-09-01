@@ -1,7 +1,3 @@
-_Software engineer based in Bristol, UK_ <br>
-
-[Email](mailto:corey@lurvey.dev) / [LinkedIn](https://www.linkedin.com/in/coreylurvey/) / [GitHub](https://github.com/coreylurvey/)
-
 ## Engineering Experience
 
 **TITLE** @ [company](https://example.com/) _(Dec 2020 - Present)_ <br>
